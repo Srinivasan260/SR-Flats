@@ -1,0 +1,298 @@
+#re{
+    color:white;
+   
+    margin-top: -1%;
+    border: white;
+   margin-left: 35%;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+}
+
+  
+#yt{
+    color: rgb(193, 40, 40);
+}
+ body{
+    background-color:white;
+
+}
+#qw{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#gf{
+    margin-left: 10%;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#gf2{
+ text-align: center;
+ margin-top: -5%;
+ font-family: 'Times New Roman', Times, serif;
+}
+#gf3{
+ margin-left: 55%;
+ margin-top: -9%;
+ font-family: 'Times New Roman', Times, serif;
+}
+.img10{
+    margin-left: 5%;
+    margin-top: 1%;
+}
+#yr{
+    margin-left: 4%;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+#tt{
+    color:aqua;
+
+}
+
+.img11{
+    margin-left: 5%;
+    margin-top: 2%;
+}
+#tw{
+    margin-top: -6%;
+    margin-left: 57%;
+    color:brown;
+}
+#tr{
+    margin-left: 80%;
+
+}
+#re1{
+    color:brown;
+    margin-left: 5%;
+}
+.container{
+    background-color:grey;
+    height: 420px;
+    width: 350px;
+    margin-right: 70%;
+}
+.img1{
+    margin-top: 2.5%;
+
+    margin-left: -0.8%;
+}
+.container2{
+    background-color: grey;
+    height: 420px;
+    width: 350px;
+    margin-left: 35%;
+    margin-top: -28.5%;
+    border: 1px;
+}
+
+.img2{
+    margin-top: 2.5%;
+
+    margin-left: 2.8%;
+}
+.container3{
+    background-color: grey;
+    height: 420px;
+    width: 350px;
+    margin-left: 65%;
+    margin-top: -28.5%;
+}
+
+.img3{
+    margin-top: 2.5%;
+
+    margin-left: 2.8%;
+}
+.container4{
+    background-color: grey;
+    height: 420px;
+    width: 350px;
+    margin-left: 6%;
+}
+
+.img4{
+    margin-top: 2.5%;
+
+    margin-left: 2.8%;
+}
+.container5{
+    background-color: grey;
+    height: 420px;
+    width: 350px;
+    margin-left: 36%;
+    margin-top: -28.5%;
+}
+
+.img5{
+    margin-top: 2.5%;
+
+    margin-left: 2.8%;
+}
+.container6{
+    background-color: grey;
+    height: 420px;
+    width: 350px;
+    margin-left: 65%;
+    margin-top: -28.5%;
+}
+
+.img6{
+    margin-top: 2.5%;
+
+    margin-left: 2.8%;
+}
+.container7{
+    background-color: grey;
+    height: 420px;
+    width: 350px;
+    margin-left: 6%;
+}
+
+.img7{
+    margin-top: 2.5%;
+
+    margin-left: 2.8%;
+}
+.container8{
+    background-color: grey;
+    height: 420px;
+    width: 350px;
+    margin-left: 36%;
+    margin-top: -28.5%;
+}
+
+.img8{
+    margin-top: 2.5%;
+
+    margin-left: 2.8%;
+}
+.container9{
+    background-color: grey;
+    height: 420px;
+    width: 350px;
+    margin-left: 65%;
+    margin-top: -28.5%;
+}
+
+.img9{
+    margin-top: 2.5%;
+
+    margin-left: 2.8%;
+}
+
+
+.container11-fluid{
+    background-color: rgb(22, 20, 20);
+    height: 620px;
+    color:aliceblue
+
+}
+.container0{
+    width: 1600px;
+    height: 80px;
+  background-color: rgb(19, 41, 62);
+    
+    
+}
+
+@media screen and (max-width:600px)
+{
+    .container{
+        background-color:grey;
+        height: 420px;
+        width: 350px;
+        margin-left : 45%;
+    }
+      .container2{
+        background-color: grey;
+        height: 420px;
+        width: 350px;
+        margin-left: 45%;
+        margin-top: 15%;
+        border: 1px;
+    }
+      .container3{
+        background-color: grey;
+        height: 420px;
+        width: 350px;
+        margin-left: 45%;
+        margin-top: 15%;
+    }
+    .container4{
+        background-color: grey;
+        height: 420px;
+        width: 350px;
+        margin-left: 45%;
+    }
+        .container5{
+        background-color: grey;
+        height: 420px;
+        width: 350px;
+        margin-left: 45%;
+        margin-top: 15%;
+    }
+    
+          .container6{
+        background-color: grey;
+        height: 420px;
+        width: 350px;
+        margin-left: 45%;
+        margin-top: 15%;
+    }  
+         .container7{
+        background-color: grey;
+        height: 420px;
+        width: 350px;
+        margin-left: 45%;
+    }
+         .container8{
+        background-color: grey;
+        height: 420px;
+        width: 350px;
+        margin-left: 45%;
+        margin-top: 15%;
+    }
+          .container9{
+        background-color: grey;
+        height: 420px;
+        width: 350px;
+        margin-left: 45%;
+        margin-top: 15%;
+    }
+       .container11-fluid{
+        background-color: rgb(22, 20, 20);
+        height: 620px;
+        width:700px;
+        color:aliceblue
+    
+    }
+         #gf3{
+     margin-left: 60%;
+     margin-top: -18%;
+     font-family: 'Times New Roman', Times, serif;
+    }
+         #yr{
+        margin-left: 4%;
+          margin-top:-3%;
+        font-family: 'Times New Roman', Times, serif;
+    }
+       .container0{
+        width: 690px;
+        height: 80px;
+      background-color: rgb(19, 41, 62);
+        
+       }
+         #tr{
+        margin-left:10%;
+    
+    }
+        }
+    
+    
+
+
