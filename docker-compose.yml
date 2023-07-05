@@ -16,7 +16,7 @@ services:
       - 8080:8080
 
   flats:
-    build : 'zohostcalcs/.'
+    build : 'Flat-project/.'
     restart : always 
     volumes:
        - userdata:/data/db
